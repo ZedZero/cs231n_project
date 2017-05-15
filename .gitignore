@@ -1,0 +1,6 @@
+*.pyc
+*.log
+.ipynb_checkpoints
+udacity-driving-reader
+Ch1
+Ch2
